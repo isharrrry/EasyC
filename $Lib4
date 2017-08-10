@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() 
+{
+	puts("Hello,I am EasyC.\n");
+	return 0;
+}
